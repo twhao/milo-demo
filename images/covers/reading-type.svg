@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="蓝灰色阅读排版习作">
+<rect width="960" height="600" fill="#dce5ee"/>
+<path d="M75 91h810M75 505h810" stroke="#8fa3b5" stroke-width="2"/>
+<text x="83" y="133" fill="#506b83" font-family="Arial,sans-serif" font-size="19" letter-spacing="4">NOTES ON READING</text>
+<text x="78" y="389" fill="#29475f" font-family="Georgia,'Times New Roman',serif" font-size="234" letter-spacing="-16">Aa</text>
+<path d="M503 199v223" stroke="#8fa3b5" stroke-width="2"/>
+<rect x="555" y="217" width="210" height="12" fill="#506b83"/>
+<path d="M555 266h266m-266 22h238m-238 22h255m-255 22h200m-200 43h266m-266 22h225m-225 22h246" fill="none" stroke="#91a5b7" stroke-width="6"/>
+<text x="80" y="549" fill="#506b83" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">TYPE / SPACE / RHYTHM</text>
+<text x="846" y="549" fill="#506b83" font-family="Georgia,serif" font-size="22">01</text>
+</svg>
