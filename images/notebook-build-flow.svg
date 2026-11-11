@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="430" viewBox="0 0 960 430" role="img" aria-labelledby="title">
+  <title id="title">Hexo 正文与静态图片的两条生成路径</title>
+  <rect width="960" height="430" rx="14" fill="#f3efe7"/>
+  <g fill="#fffaf0" stroke="#9baab5" stroke-width="2">
+    <rect x="40" y="78" width="245" height="75" rx="8"/>
+    <rect x="357" y="78" width="246" height="75" rx="8"/>
+    <rect x="675" y="78" width="245" height="75" rx="8"/>
+    <rect x="40" y="253" width="245" height="75" rx="8"/>
+    <rect x="675" y="253" width="245" height="75" rx="8"/>
+  </g>
+  <g fill="#303a44" font-family="system-ui,sans-serif" font-size="23" text-anchor="middle">
+    <text x="162" y="123">Markdown 原稿</text><text x="480" y="123">渲染、路由与模板</text><text x="797" y="123">文章 HTML</text>
+    <text x="162" y="299">source/images/</text><text x="797" y="299">public/images/</text>
+    <text x="480" y="268" fill="#2866a5">复制静态资源</text>
+    <text x="480" y="382" font-size="19">浏览器读取 HTML，再根据图片地址单独请求文件</text>
+  </g>
+  <path d="M301 115h40m-10-7 10 7-10 7m288-7h40m-10-7 10 7-10 7M301 290h358m-10-7 10 7-10 7" fill="none" stroke="#2866a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

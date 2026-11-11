@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title">
+  <title id="title">三张叠放的原稿与右侧完成排版的网页</title>
+  <rect width="960" height="600" fill="#e7dfd0"/>
+  <path d="M0 510h960M0 91h960" stroke="#b7aa97"/>
+  <path d="M135 420 99 209 328 170l36 211Z" fill="#ad9884"/>
+  <path d="m154 190 238 27-23 208-239-27Z" fill="#c9b9a4" stroke="#9f8d79"/>
+  <path d="M163 154h244v243H163z" fill="#faf2e2" stroke="#a99a87"/>
+  <path d="M188 188h119m-119 32h190m-190 17h156m-156 17h172m-172 17h133m-133 41h182m-182 17h155m-155 17h174" fill="none" stroke="#8c8276" stroke-width="4"/>
+  <path d="M185 293h144" stroke="#2866a5" stroke-width="4"/>
+  <path d="M432 300h76m-11-9 11 9-11 9" fill="none" stroke="#2866a5" stroke-width="3"/>
+  <rect x="540" y="117" width="305" height="365" rx="9" fill="#c2b7a6"/>
+  <rect x="528" y="107" width="305" height="365" rx="9" fill="#faf5e9" stroke="#a99a87"/>
+  <path d="M528 151h305" stroke="#b7aa97"/>
+  <circle cx="551" cy="129" r="4" fill="#2866a5"/>
+  <path d="M555 182h128m-128 17h168" stroke="#333c45" stroke-width="8"/>
+  <path d="M555 232h251v84H555z" fill="#b3c5d2"/>
+  <path d="m555 301 56-28 57 15 52-31 86 42v17H555z" fill="#577b9a"/>
+  <path d="M555 350h245m-245 19h229m-229 19h241m-241 19h168" stroke="#8c8276" stroke-width="4"/>
+  <text x="107" y="550" font-family="Georgia,serif" font-size="20" letter-spacing="3" fill="#514940">FIELD NOTES / WEB EDITION</text>
+</svg>

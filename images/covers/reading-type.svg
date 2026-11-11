@@ -1,11 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="蓝灰色阅读排版习作">
-<rect width="960" height="600" fill="#dce5ee"/>
-<path d="M75 91h810M75 505h810" stroke="#8fa3b5" stroke-width="2"/>
-<text x="83" y="133" fill="#506b83" font-family="Arial,sans-serif" font-size="19" letter-spacing="4">NOTES ON READING</text>
-<text x="78" y="389" fill="#29475f" font-family="Georgia,'Times New Roman',serif" font-size="234" letter-spacing="-16">Aa</text>
-<path d="M503 199v223" stroke="#8fa3b5" stroke-width="2"/>
-<rect x="555" y="217" width="210" height="12" fill="#506b83"/>
-<path d="M555 266h266m-266 22h238m-238 22h255m-255 22h200m-200 43h266m-266 22h225m-225 22h246" fill="none" stroke="#91a5b7" stroke-width="6"/>
-<text x="80" y="549" fill="#506b83" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">TYPE / SPACE / RHYTHM</text>
-<text x="846" y="549" fill="#506b83" font-family="Georgia,serif" font-size="22">01</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title">
+  <title id="title">带蓝色校样标记的书页，旁边是一列重新分段的文字</title>
+  <rect width="960" height="600" fill="#292d29"/>
+  <path d="M133 80h515v453H133z" fill="#171c18"/>
+  <path d="M122 66h515v453H122z" fill="#f0e7d4"/>
+  <path d="M158 118h443M158 464h443" stroke="#a99e88"/>
+  <text x="163" y="106" fill="#595745" font-family="Georgia,serif" font-size="15" letter-spacing="3">READING PROOF</text>
+  <text x="164" y="248" fill="#222822" font-family="Georgia,serif" font-size="106" font-style="italic">Read</text>
+  <path d="M167 282h375m-375 17h421m-421 17h398m-398 17h335m-335 33h422m-422 17h381m-381 17h409m-409 17h303" fill="none" stroke="#777764" stroke-width="5"/>
+  <path d="M510 343q19-22 42 0m-23-10 1 19m13-100h58v173h-41m41-91h46" fill="none" stroke="#2866a5" stroke-width="3" stroke-linecap="round"/>
+  <path d="M677 137h180v327H677z" fill="#d7cfb8"/>
+  <path d="M697 169h139m-139 263h139" stroke="#8f846e"/>
+  <path d="M698 193h88m-88 104h104" stroke="#292d29" stroke-width="9"/>
+  <path d="M698 221h137m-137 15h129m-129 15h112m-112 74h136m-136 15h121m-121 15h133m-133 15h92" fill="none" stroke="#777764" stroke-width="4"/>
+  <path d="M651 334h13m-7-5 7 5-7 5" stroke="#8db8e8" fill="none" stroke-width="2"/>
+  <text x="166" y="491" fill="#595745" font-family="Georgia,serif" font-size="15">01</text>
 </svg>
